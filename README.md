@@ -1,4 +1,5 @@
 # Power-BI-Lead-Buying-and-Selling-Dashboard
+![Screenshot 2025-05-04 231231](https://github.com/user-attachments/assets/82e7de1b-80c3-4bcf-a1c3-934879f227c5)
 
 📊 Dashboard Automation with Power BI
 This repository contains a Power BI dashboard designed to analyze and visualize Ping Acceptance, Ping Success, Profit, and Leads by month. The goal is to optimize campaign and operational performance for a lead generation business.
